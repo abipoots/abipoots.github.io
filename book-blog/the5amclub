@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Abbie Poots - Book Blog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <nav class="bg-white px-8 pt-2 shadow-md">
+     <div class="-mb-px flex justify-center">
+         <a href="index.html" class="no-underline text-teal-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Welcome
+         </a>
+         <a href="book-blog.html" class="no-underline text-grey-dark border-b-2 border-teal-dark uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Book Blog
+         </a>
+         <a href="articles.html" class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Articles 
+         </a>
+       <a href="experiences.html" class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Experiences
+         </a>
+         <a href="contact.html" class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3" href="#">
+             Contact
+         </a>
+     </div>
+</nav>
+  <div class = "container bg-teal-700">
+  <div class="p-4 font-bold text-pink-400"><center>The 5am Club - Robin Sharma <center>
+  </div>
+<div>
+   <center><img src="https://images-na.ssl-images-amazon.com/images/I/81Nlt%2BKjHhL.jpg" class="h-40"></center>
+</div>
+<div> "EVERYONE THINKS OF CHANGING THE WORLD BUT NO ONE THINKS OF CHANGING HIMSELF" </br>
+LEO TOLSTOY </br>
+        </br> 
+NOTHING WORKS FOR THOSE WHO DON'T DO THE WORK </br>
+Commitment, discipline, patience and work; productivity, courage, honesty, empathy, integrity.</br>
+                                                                                          </br>
+YET, THE LIFE OF THE CATERPILLAR MUST END FOR THE GLORY OF THE BUTTERFULY TO SHINE.</br>
+                                                                              </br> 
+PURE LEADERS ARE SO SECURE IN THEIR OWN SKIN THEIR MAIN MISSION IS THE ELEVATION OF OTHERS.</br> 
+</br>
+REAL POWER NEVER COMES FROM ANYTHING EXTERNAL</br>
+</br> 
+GROWTH IS THE REAL SPORT THAT THE BEST PLAY, EVERY DAY.</br>
+EDUCATION TRULY IS INOCULATION AGAINST DISTRUPTION</br> 
+
+<p> The 3 Step Formula </p> 
+</br> * insert photos * </br> 
+The beginning of transformation is the increase in perception.  As you see more you can materialize more.  And once you knw better you can achieve bigger.  The great women and men of the world - the ones responsible for the magical symphonies, the beautiful movements, the advancements of science and the progress of technology - started by reengineering their thinking and reinventing their awareness.  In so doing, they entered a secret universe that the majority could not perceive.  And this, in turn, allowed them to make the daily choices few choose to make.  Which, automatically, delivered the daily results few get to experience." 
+</div>
+  </div>  
+</html>
