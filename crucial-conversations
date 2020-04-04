@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Abbie Poots - Book Blog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <nav class="bg-white px-12 pt-12 pb-6 shadow-md">
+     <div class="-mb-px flex justify-center">
+       <a href="index.html" class="no-underline text-lg text-teal-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Welcome
+         </a>
+         <a href="book-blog.html" class="no-underline text-lg text-grey-dark border-b-2 border-dark uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Book Blog
+         </a>
+         <a href="articles.html" class="no-underline text-lg text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Articles 
+         </a>
+       <a href="experiences.html" class="no-underline text-lg text-teal-grey border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8" href="#">
+             Experiences
+         </a>
+         <a href="contact.html" class="no-underline text-lg text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3" href="#">
+             Contact
+         </a>
+     </div>
+</nav>
+<div class="container my-12 mx-40 p-16 border-solid border-4 border-black background-colour-white">
+  <h1 class="container font-sans text-center text-2xl p-6 font-semibold tracking-wide text-gray-700 border-b-6 border-black-600 m-10">
+    <p>Crucial Conversations</p>
+              </h1> 
+  </br></br></br>
+              <h2 class="text-xl text-center border-solid border-2 border-black px-0 py-6"> "A habit is a behaviour that has been repeated enough times to become automatic."</br></br>
+                                   "Why do they exist? To solve the problems of life with as little energy and effort as possible."</br>
+</h2></br></br>       
+</br>
+<h2 class="font-arial text-xl text-center""> INTRODUCTION </h2> 
+<br/>
+<strong>THE FEEDBACK LOOP</strong></br>
+</br>
+*insert 2 pictures* </br></br>
+  <table class="table-fixed">
+    <tbody>
+      <tr>
+        <th class="font-light italic w-11 px-4 py-2">Cue</th>
+        <th class="font-light italic w-11 px-4 py-2">Craving</th>
+        <th class="font-light italic w-11 px-4 py-2">Response</th>
+        <th class="font-light italic w-11 px-4 py-2">Reward</th>
+      </tr>
+    <tr>
+      <th class="w-11 border px-4 py-2">You are answering emails</th>
+      <th class="w-11 border px-4 py-2">You begin to feel stressed and overwhelmed by work.  You want to feel in control.</th>
+      <th class="w-11 border px-4 py-2">You bite your nails.</th>
+      <th class="w-11 border px-4 py-2">You satisfy your craving to reduce stress. Biting your nails becomes associated with answering email.</th>
+    </tr>
+    <tr>
+      <th class="border px-4 py-2">You smell a doughnut shop as you walk down the street near your office.</th>
+      <th class="border px-4 py-2">You begin to crave a doughnut.</th>
+      <th class="border px-4 py-2">You buy a doughnut and eat it.</th>
+      <th class="border px-4 py-2">You satisfy your craving to eat a doughnut.  Buying a doughnut becomes associated with walking down the street near your office.</th>
+    </tr>
+    <tr>
+      <th class="border px-4 py-2">You hit a stumbling block on a project at work.</th>
+      <th class="border px-4 py-2">You feel stuck and want to relieve your frustration.</th>
+      <th class="border px-4 py-2">You pull out your phone and check social media.</th>
+      <th class="border px-4 py-2">You satisfy your craving to feel relieved.  Checking social media becomes associated with feeling stalled at work.</th>
+    </tr>
+  </tbody>
+</table>
+</br>
+</br>
+</br>
+  <table class="center">
+    <thead>
+    <tr class="bg-gray-100 text-center text-lg font-semibold">
+      <th>HOW TO CREATE A GOOD HABIT</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td class="border px-2 py-2">The 1st law</td>
+      <td class="border px-2 py-2">Make it <strong>OBVIOUS</strong></td>
+    <tr>
+      <td class="border px-2 py-2">The 2nd law</td>
+      <td class="border px-2 py-2">Make it <strong>ATTRACTIVE</strong></td>
+    </tr>
+    <tr>
+      <td class="border px-2 py-2">The 3rd law</td>
+      <td class="border px-2 py-2">Make it <strong>EASY</strong></td>
+    </tr>
+    <tr> 
+      <td class="border px-2 py-2">The 4th law</td>
+      <td class="border px-2 py-2">Make it <strong>SATISFYING</strong></td>
+    </tr>
+    </tbody>
+</table>
+    </br>
+    <table class="center">
+    <thead>
+    <tr class="bg-gray-100 text-center text-lg font-semibold">
+      <th>HOW TO BREAK A BAD HABIT</th> 
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="border px-2 py-2">The 1st law</td>
+        <td class="border px-2 py-2">Make it <strong>INVISIBLE</strong></td>
+      </tr>
+      <tr>
+        <td class="border px-2 py-2">The 2nd law</td>
+        <td class="border px-2 py-2">Make it <strong>UNATTRACTIVE</strong></td> 
+      </tr>
+      <tr>
+        <td class="border px-2 py-2">The 3rd law</td>
+        <td class="border px-2 py-2">Make it <strong>DIFFICULT</strong></td>
+      </tr>
+      <tr>
+        <td class="border px-2 py-2">The 4th law</td>
+        <td class="border px-2 py-2">Make it <strong>UNSATISFYING</strong></td>
+      </tr>
+      </tbody>
+   </table>
+  </br>
+<h2 class="font-arial text-xl text-center"> LAW 1: MAKE IT OBVIOUS</h2> 
+<br/>
+<h3 class="underline font-arial text-lg"> THE HABITS SCORECARD </h3>
+Create a list of all your daily habits.  Label them good(+), bad (-) or neutral (=). </br>
+Examples: <ul> <li> wake up = check my phone - </li>
+               <li> turn off alarm = brush my teeth + </li>
+          </ul>
+<br/> 
+<h3><h3 class="underline font-arial text-lg"> POINTING AND CALLING </h3>
+Say out loud the action you are thinking of taking, and what the outcome will be.
+<br/>
+<br/> 
+<h3><h3 class="underline font-arial text-lg">IMPLEMENTATION INTENTIONS</h3> 
+<p>I will [BEHAVIOUR] at [TIME] in [LOCATION]        *specificity is key*</p>
+<br/>
+<br/> 
+<h3><h3 class="underline font-arial text-lg">HABIT STACKING</h3> 
+After [CURRENT HABIT], I will [NEW HABIT] 
+<br/> 
+<br/> 
+<p>e.g. After I pour my morning cup of coffee, I will meditate for sixty seconds.</br>
+e.g. After I meditate for sixty seconds, I will write my to-do list for the day.</br>
+e.g. After I write my to-do list for the day, I will immediately begin my first task.</p>
+<br/>
+<br/> 
+<h4 class="underline"><em> Advanced Habit Stacking:</em></h4></br>
+<ul>
+  <li><em>When I want to buy something over £100, I will wait 24 hours before purchasing.</em></li>
+  <li><em>When I buy a new item, I will give something away.</em></li>
+  <li><em>When the phone rings, I will take one deep breath and smile before answering.</em></li>
+</ul>
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">FINDING THE RIGHT TRIGGERS FOR YOUR HABIT STACKS</h3>
+Make a list of daily habits and a list of things that happen to you each day.  (e.g. sun rises, sun sets, song ends, text message received)</br> 
+<p></p><p></p><p></p><p></p>Search for the best place to layer your new habit into your lifestyle.</br>
+</br>
+<h3><h3 class="font-arial text-lg">DESIGN YOUR ENVIRONMENT</h3><p class="text-red-600 text-sm">BE THE ARCHITECT</p> 
+It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues.</br>
+Habits are associated not with a single trigger but with the entire context (e.g. drinking more in social situations because hearing music, seeing beers on tap, watching friends order drinks)</br>
+Make cues a big part of your environment: 
+<ul><li> Want to drink more water? Place water bottles around the house.</li>
+<li>Want to practise guitar more often? Place your guitar stand in the middle of the living room.</li>
+</ul> 
+</br>
+</br>
+<h2><h2 class="font-arial text-xl text-center">LAW 2: MAKE IT ATTRACTIVE </h2>
+</br> 
+</br>
+<centre>IT IS THE ANTICIPATION OF A REWARD - NOT THE FULFILLMENT OF IT- THAT GETS US TO TAKE ACTION.</br>
+DESIRE IS THE ENGINE THAT DRIVES BEHAVIOUR.</br>
+EVERY ACTION IS TAKEN BECAUSE OF THE ANTICIPATION THAT PRECEDES IT.</centre> 
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">THE DOPAMINE SPIKE</h3>
+<h3><h3 class="underline font-arial text-lg">TEMPTATION BUNDLING</h3><p>(Pairing actions you WANT to do with actions you NEED to do)</p></br>
+<ol>
+    <li> After [CURRENT HABIT], I will [HABIT I NEED].</li>
+    <li>After [HABIT I NEED], I will [HABIT I WANT].</li>
+</ol>
+</br>
+<em> e.g. If you want to watch sports, but you need to make more sales calls.
+<ol>
+  <li>After I get back from lunch, I will call 3 potential clients. [need]</li>
+  <li>After i call 3 potential clients, I will check ESPN.  [want]<li>
+</ol></em>
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">JOIN A CULTURE WHERE YOUR DESIRED BEHAVIOUR IS THE NORMAL BEHAVIOUR</h3>
+<text-red-600>THE SEDUCTIVE PULL OF SOCIAL NORMS: WHATEVER HABITS ARE NORMAL IN YOUR CULTURE ARE AMONG THE MOST ATTRACTIVE BEHAVIOURS YOU'LL FIND.</text-red-600>
+</br>
+We tend to imitate the habits of the close, the many and the powerful.
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">MOTIVATION RITUALS</h3> <p class="text-sm">test</p>
+</br>
+<ul>
+  <li>Change <em>"I have to"</em> to <em>"I get to"</em></li>
+  <li>Reframing Perspective. (e.g. 'liberated by' rather than 'confined by' my wheelchair)</li>
+  <p><span class="tab"><span>HIGHLIGHT THE BENEFITS. "I need to go run" to "Time to build endurance and get fast."</p>
+  <p>e.g. before you do something that makes you truly happy, take 3 deep breaths and smile.  THEN you can use "take 3 deep breaths and smile" to feel happy.</p>
+    </br>
+  </br>
+<h2><h2 class="font-arial text-center text-xl">LAW 3: MAKE IT EASY</h2>
+   <br/>
+   <br/>
+<h3><h3 class="underline font-arial text-lg">PRIME YOUR ENVIRONMENT</h3>
+  <p>e.g. Want to exercise?  Set out your workout clothes, shoes, gym bag etc.</p></br>
+<p>Also "resetting the room" strategy e.g. throw rubbish out when you leave your car."</p>
+<p><span class="tab"><span> e.g. arrange pillows, fold blankets etc. when finished in the living room.</p>
+  </br>
+</br>
+  <h3><h3 class="underline font-arial text-lg">MASTER THE DECISIVE MOMENT</h3>
+<p>These choices stack up and affect your life. </br>
+e.g. when you get home, do you change into your gym clothes?  Or sit on the sofa?</p>
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">THE 2-MINUTE RULE</h3>
+Don't do too much too soon.  "When you start a new habit, it should take less than 2 minutes to do."
+<p><span class="tab"><span>e.g Read before bed each night → Read one page.</br>
+  <span>e.g. Do 30 minutes of yoga → Take out my yoga mat.</p>
+  </br>
+  Examples.</br>
+<table>
+  <tr>
+    <td><strong>Very Easy</strong></td>
+    <td><strong>Easy</strong></td>
+    <td><strong>Moderate</strong></td>
+    <td><strong>Hard</strong></td>
+    <td><strong>Very Hard</strong></td>
+  </tr>
+  <tr>
+    <td>Put on your running shoes</td>
+    <td>Walk 10min.s</td>
+    <td>walk 10k steps</td>
+    <td>Run 5k</td>
+    <td>Run a marathon</td>
+  </tr>
+    <tr>
+    <td>Write one sentence</td>
+    <td>Write one paragraph</td>
+    <td>Write 1,000 words</td>
+    <td>Write a 5k word article</td>
+    <td>Write a book</td>
+  </tr>
+    <tr>
+    <td>Open your notes</td>
+    <td>Study for 10 min.s</td>
+    <td>Study for 3 hours</td>
+    <td>Get straight As</td>
+    <td>Earn a PhD</td>
+  </tr>
+</table>
+</br>
+</br>
+<p class="underline font-arial text-lg">MASTER THE ART OF SHOWING UP</p></br>
+<h3><h3 class="underline font-arial text-lg">AUTOMATE YOUR HABITS</h3>
+  As many as you can e.g. billing.</br></br>
+<h3><h3 class="underline font-arial text-lg">USE COMMITMENT DEVICES</h3>
+  e.g. Ask to be banned from casinos in order to prevent gambling sprees.</br>
+e.g. Purchase food in individual packages to prevent overeating.</br></br>
+<p class="underline font-arial text-lg">ONETIME ACTIONS THAT LOCK IN GOOD HABITS</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li> Buy a water filter.</li>
+         <li> Use smaller plates.</li>
+         <li> Buy a good mattress.</li> 
+         <li> Get blackout curtains.</li>
+          <li> Remove T.V. from bedroom.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+         <li> Unsubscribe from emails.</li>
+         <li> Set your phone to silent.</li>
+         <li> Use email filters to clean inbox.</li> 
+         <li> Enroll in an automatic savings plan.</li>
+         <li> Buy good shoes to avoid back pain.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</br>
+</br>
+  
+<h2><h2 class="font-arial text-center text-xl">LAW 4: MAKE IT SATISFYING</h2>
+</br>
+</br>
+<center>WHAT IS REWARDED IS REPEATED.  WHAT IS PUNISHED IS AVOIDED.</center> 
+  </br>
+<center>POSITIVE EMOTIONS CULTIVATE HABITS; NEGATIVE EMOTIONS DESTROY THEM.</center>
+</br> 
+<h3><h3 class="underline font-arial text-lg">REWARD YOURSELF IMMEDIATELY</h3>
+  e.g. skipping on buying something -> put it in a savings account for something specific.</br>
+Brainstorm.  Massage, bubble bath, spa day, early night etc. 
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">USE VISUAL TRACKERS</h3>
+  e.g. The Paperclip Strategy</br>
+Keep a track of your habit streak and "don't break the chain". 
+</br>
+</br>
+<h3><h3 class="underline font-arial text-lg">NEVER MISS TWICE</h3> 
+  When you forget to do a habit, get back on track immediately. 
+  </br>
+</br>
+<h3><h3 class="underline font-arial text-lg">FINDING A GAME WHERE THE ODDS ARE IN YOUR FAVOUR</h3>
+Ask: 
+<ul>
+  <li> What feels like fun to me, but work to others? </li>
+  <li> What makes me lose track of time? </li>
+  <li> Where do I get greater returns than the average person? </li>
+  <li> What comes naturally to me? </li> 
+</ul>
+</br>
+<h3><h3 class="font-arial text-lg">If you can't find a game, create one.</h3>
+  [e.g. Scott Adams could draw better than average, and was funnier than average.  Few people can draw well and write jokes.  Added his business background and "Dilbert" was created.] </br>
+</br>
+<p class="font-arial text-lg text-center">PROFESSIONALS STICK TO THE SCHEDULE; AMATEURS LET LIFE GET IN THE WAY</p>
+</br>
+</br>
+</body>
+</div>
+</html>
